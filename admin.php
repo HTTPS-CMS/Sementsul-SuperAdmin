@@ -44,7 +44,7 @@ if (isset($_SESSION['login']) && $_SESSION['login'] == $hash) {
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script src="script.js"></script>	
 	<link rel="stylesheet" type="text/css" href="style.css" />
-	<title>Sementsul</title>
+	<title>Sementsul SuperAdmin</title>
 
 <style>
 
